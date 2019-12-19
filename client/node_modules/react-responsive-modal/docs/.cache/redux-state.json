@@ -1,0 +1,768 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "component": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/.cache/dev-404-page.js",
+      "path": "/dev-404-page/",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "updatedAt": 1510704897558,
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "48c178212c400dbe3ff321bb8ba06ac3",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "aabb00e1821e3e0a1194f2b84c7311bd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3f7b6a79d7335a59c073bd0e7988332e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ac6e555fdb43615de2c86fda2a74cc5d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6494a760264aada15979b0aecb1bc1f0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3a27358e01f0c25463ffbe7f05ad7763",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "025399b4f3a05efa7eb87c215cdba689",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.1",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/../README.md",
+        "name": "readme"
+      },
+      "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.1",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bd2e7ac5c3cb641d451a20bdcd51a723",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.15",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby-remark-prismjs",
+            "id": "Plugin gatsby-remark-prismjs",
+            "name": "gatsby-remark-prismjs",
+            "version": "1.2.8",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby-remark-prismjs"
+          }
+        ]
+      },
+      "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.15",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^2.1.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1a9eaae69dfddd28f58b9a083f12ee84",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-prismjs": {
+      "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby-remark-prismjs",
+      "id": "Plugin gatsby-remark-prismjs",
+      "name": "gatsby-remark-prismjs",
+      "version": "1.2.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "1.2.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "^0.0.2"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "efb3292652e8352f94b27846b85903ca",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0d3f326bf7af90386c3e1802dd31ba0f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-next": {
+      "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby-plugin-react-next",
+      "id": "Plugin gatsby-plugin-react-next",
+      "name": "gatsby-plugin-react-next",
+      "version": "1.0.4",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/node_modules/gatsby-plugin-react-next",
+      "packageJson": {
+        "name": "gatsby-plugin-react-next",
+        "description": "Use React 16 with your Gatsby v1 site",
+        "version": "1.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "core-js",
+            "version": "^2.5.1"
+          },
+          {
+            "name": "react",
+            "version": "^16.0.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "64d13a504e60112a3d913192f79fff4a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/leo/dev/github/pradel/react-responsive-modal/docs",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "0f08cdef0931ccb8dc1355520f095045",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs",
+      "packageJson": {
+        "name": "docs",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.50"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.18"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.6"
+          },
+          {
+            "name": "gatsby-plugin-react-next",
+            "version": "^1.0.4"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^1.2.8"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.1"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.15"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.0.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "05ab7e204fe3353067ddcfbdb1be8674",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "react-responsive-modal",
+        "description": "Simple responsive modal for react",
+        "author": "Léo Pradel"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2017-11-15T00:14:54.467Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8d4aa0efcc08ecca241a65cfee8bdad1",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/leo/dev/github/pradel/react-responsive-modal/docs/../README.md absPath of file": {
+      "id": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/../README.md absPath of file",
+      "children": [
+        "/Users/leo/dev/github/pradel/react-responsive-modal/docs/../README.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7bc82e4b557ff61cfbd652c41eb28854",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "readme",
+      "absolutePath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/../README.md",
+      "relativePath": "",
+      "extension": "md",
+      "size": 7602,
+      "prettySize": "7.6 kB",
+      "modifiedTime": "2017-11-15T00:06:08.000Z",
+      "accessTime": "2017-11-15T00:06:42.000Z",
+      "changeTime": "2017-11-15T00:06:08.000Z",
+      "birthTime": "2017-11-15T00:06:08.000Z",
+      "root": "/",
+      "dir": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/..",
+      "base": "README.md",
+      "ext": ".md",
+      "name": "README",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 149085233,
+      "blocks": 16,
+      "atimeMs": 1510704402000,
+      "mtimeMs": 1510704368000,
+      "ctimeMs": 1510704368000,
+      "birthtimeMs": 1510704368000,
+      "atime": "2017-11-15T00:06:42.000Z",
+      "mtime": "2017-11-15T00:06:08.000Z",
+      "ctime": "2017-11-15T00:06:08.000Z",
+      "birthtime": "2017-11-15T00:06:08.000Z"
+    },
+    "/Users/leo/dev/github/pradel/react-responsive-modal/docs/../README.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/../README.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/../README.md absPath of file",
+      "internal": {
+        "content": "# react-responsive-modal\n\n[![npm version](https://badge.fury.io/js/react-responsive-modal.svg)](https://badge.fury.io/js/react-responsive-modal)\n[![npm](https://img.shields.io/npm/dm/react-responsive-modal.svg)](https://www.npmjs.com/package/react-responsive-modal)\n[![Build Status](https://travis-ci.org/pradel/react-responsive-modal.svg?branch=master)](https://travis-ci.org/pradel/react-responsive-modal)\n[![dependencies Status](https://david-dm.org/pradel/react-responsive-modal/status.svg)](https://david-dm.org/pradel/react-responsive-modal)\n\nA simple responsive react modal compatible with React 15 and 16.\n\n* Centered modals.\n* Scrolling modals.\n* Multiple modals.\n* Easily customizable via props.\n\n## Demo\n\nYou can find a demo [here](https://react-responsive-modal.leopradel.com/).\n\n<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/TPcxj3ZMAXdSxzhvJ7SzjaQY/pradel/react-responsive-modal'>\n  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/TPcxj3ZMAXdSxzhvJ7SzjaQY/pradel/react-responsive-modal.svg' />\n</a>\n\n## Installation\n\nWith npm: `npm install react-responsive-modal --save`\n\nOr with yarn: `yarn add react-responsive-modal`\n\n## Usage\n\n[![Edit react-responsive-modal](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/9jxp669j2o)\n\n```javascript\nimport React from 'react';\nimport ReactDOM from 'react-dom';\nimport Modal from 'react-responsive-modal';\n\nexport default class App extends React.Component {\n  state = {\n    open: false,\n  };\n\n  onOpenModal = () => {\n    this.setState({ open: true });\n  };\n\n  onCloseModal = () => {\n    this.setState({ open: false });\n  };\n\n  render() {\n    const { open } = this.state;\n    return (\n      <div>\n        <button onClick={this.onOpenModal}>Open modal</button>\n        <Modal open={open} onClose={this.onCloseModal} little>\n          <h2>Simple centered modal</h2>\n        </Modal>\n      </div>\n    );\n  }\n}\n\nReactDOM.render(<App />, document.getElementById('app'));\n```\n\n#### Usage with css\n\nBy default react-responsive-modal is using [react-jss](https://github.com/cssinjs/react-jss).\n\nIf you don't want to add it to your project you can use the css version of this project:\n\n```javascript\n// Import the css file\nimport 'react-responsive-modal/lib/react-responsive-modal.css';\nimport Modal from 'react-responsive-modal/lib/css';\n```\n\n## Props\n\n| Property            |   Type   | Default | Description                                                                                                                                                                                                                                                                                                                      |\n| ------------------- | :------: | :-----: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **open\\***          | Boolean  |         | Control if the modal is open or not.                                                                                                                                                                                                                                                                                             |\n| **onClose\\***       | Function |         | Fired when the Modal is requested to be closed by a click on the overlay or when user press esc key.                                                                                                                                                                                                                             |\n| children            |   Node   |         | The content of the modal.                                                                                                                                                                                                                                                                                                        |\n| closeOnEsc          | Boolean  |  true   | Is the modal closable when user press esc key.                                                                                                                                                                                                                                                                                   |\n| closeOnOverlayClick | Boolean  |  true   | Is the modal closable when user click on overlay.                                                                                                                                                                                                                                                                                |\n| little              | Boolean  |  false  | Is the dialog centered (**when you don't have a lot of content**).                                                                                                                                                                                                                                                               |\n| showCloseIcon       | Boolean  |  true   | Show the close icon.                                                                                                                                                                                                                                                                                                             |\n| closeIconSize       |  Number  |   28    | Close icon size.                                                                                                                                                                                                                                                                                                                 |\n| closeIconSvgPath    |   Node   |         | A valid svg path to show as icon.                                                                                                                                                                                                                                                                                                |\n| classNames          |  Object  |   {}    | An object containing classNames to style the modal, can have properties 'overlay' (classname for overlay div), 'modal' (classname for modal content div), 'closeIcon' (classname for close icon svg). You can customize the transition with 'transitionEnter', 'transitionEnterActive', 'transitionExit', 'transitionExitActive' |\n| styles              |  Object  |   {}    | An object containing the styles objects to style the modal, can have properties 'overlay', 'modal', 'closeIcon'.                                                                                                                                                                                                                 |\n| animationDuration   |  Number  |   500   | Animation duration in milliseconds.                                                                                                                                                                                                                                                                                              |\n\n## License\n\nMIT © [Léo Pradel](https://www.leopradel.com/)\n",
+        "contentDigest": "789b776402caf01a5707f120282716f1",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/../README.md absPath of file",
+        "parent": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/../README.md absPath of file"
+      },
+      "fileAbsolutePath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/../README.md"
+    },
+    "SitePage /": {
+      "path": "/",
+      "component": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "updatedAt": 1510704897622,
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/leo/dev/github/pradel/react-responsive-modal/docs/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1d674611f31482da12c7d267480ce8d1",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "c9b0980690c7223f69c1d06fc5d333f1"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/"
+      ],
+      "/Users/leo/dev/github/pradel/react-responsive-modal/docs/../README.md absPath of file >>> MarkdownRemark": [
+        "/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}
